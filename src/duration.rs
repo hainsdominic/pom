@@ -43,10 +43,10 @@ impl Duration {
         let notification_msg: String;
         if self.working {
             self.current_duration = self.work_duration;
-            notification_msg = String::from("Time to work!");
+            notification_msg = String::from("Time to work 📚");
         } else {
             self.current_duration = self.break_duration;
-            notification_msg = String::from("Break time!");
+            notification_msg = String::from("Break time 🎮");
         }
         Notification::new()
             .summary("Pom")
