@@ -1,6 +1,6 @@
 [package]
 name = "pom"
-description = "A lightweight pomodoro focus tool"
+description = "A lightweight focus tool inspired by pomodoro"
 authors = ["Dominic <dominic@hainstech.com>"]
 version = "0.1.0"
 edition = "2021"
@@ -11,3 +11,4 @@ strip = true
 
 [dependencies]
 clap = { version = "3.1.7", features = ["derive"] }
+notify-rust = { version = "4" }
