@@ -57,7 +57,7 @@ impl Duration {
 
     pub fn get_status(&self) {
         if self.working {
-            println!("✏️ Doing {}, {} minutes remaining", self.name, self);
+            println!("✏️  Doing {}, {} minutes remaining", self.name, self);
         } else {
             println!("😴 Taking a break, {} minutes remaining", self);
         }
