@@ -4,7 +4,11 @@ description = "A lightweight focus tool inspired by pomodoro"
 authors = ["Dominic <dominic@hainstech.com>"]
 version = "0.1.0"
 edition = "2021"
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+keywords = ["focus", "pomodoro", "timer", "break", "work"]
+categories = ["command-line-utilities"]
+license-file = "LICENSE"
+repository = "https://github.com/hainsdominic/pom"
+homepage = "https://github.com/hainsdominic/pom"
 
 [dependencies]
 clap = { version = "3.1.7", features = ["derive"] }
