@@ -1,6 +1,6 @@
 [package]
-name = "pom"
-description = "A lightweight focus tool inspired by pomodoro"
+name = "pom-rs"
+description = "A lightweight pomodoro focus tool with cross-platform desktop notifications on Linux, MacOS and Windows."
 authors = ["Dominic Hains"]
 version = "0.1.0"
 edition = "2021"
