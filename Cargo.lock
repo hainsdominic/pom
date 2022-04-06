@@ -568,8 +568,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "pom"
-version = "0.1.0"
+name = "pom-rs"
+version = "0.1.2"
 dependencies = [
  "clap",
  "notify-rust",

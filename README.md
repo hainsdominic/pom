@@ -3,11 +3,12 @@
 A lightweight focus CLI tool built with Rust
 
 ```bash
-pom 0.1.0
-A lightweight focus tool inspired by pomodoro
+pom-rs 0.1.1
+A lightweight pomodoro focus tool with cross-platform desktop notifications on Linux, MacOS and
+Windows.
 
 USAGE:
-    pom [OPTIONS]
+    pom-rs [OPTIONS]
 
 OPTIONS:
     -b, --break-duration <BREAK_DURATION>    Break period duration (Minutes) [default: 5]
@@ -19,7 +20,7 @@ OPTIONS:
 
 ## Installation
 
-Simple run `cargo install pom-rs` to install the CLI application, then use the `pom` command to use it.
+Simple run `cargo install pom-rs` to install the CLI application, then use the `pom-rs` command to use it.
 
 ## Build
 
