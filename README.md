@@ -1,9 +1,11 @@
 # Pom
 
+[![Current Crates.io Version](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/pom-rs)
+
 A lightweight focus CLI tool built with Rust
 
 ```bash
-pom-rs 0.1.1
+pom-rs 0.1.X
 A lightweight pomodoro focus tool with cross-platform desktop notifications on Linux, MacOS and
 Windows.
 
