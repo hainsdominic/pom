@@ -7,7 +7,6 @@ edition = "2021"
 keywords = ["focus", "pomodoro", "timer", "break", "work"]
 categories = ["command-line-utilities"]
 license = "GPL-3.0"
-license-file = "LICENSE"
 repository = "https://github.com/hainsdominic/pom"
 homepage = "https://github.com/hainsdominic/pom"
 
