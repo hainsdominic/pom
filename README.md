@@ -17,6 +17,10 @@ OPTIONS:
     -V, --version
 ```
 
+## Installation
+
+Simple run `cargo install pom-rs` to install the CLI application, then use the `pom` command to use it.
+
 ## Build
 
 Once you have [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) installed, clone this repository and go into it:
