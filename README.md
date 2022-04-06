@@ -1,6 +1,6 @@
 # Pom
 
-[![Current Crates.io Version](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/pom-rs)
+[![Current Crates.io Version](https://img.shields.io/crates/v/pom-rs.svg)](https://crates.io/crates/pom-rs)
 
 A lightweight focus CLI tool built with Rust
 
