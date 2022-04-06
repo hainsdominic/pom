@@ -2,7 +2,7 @@
 name = "pom-rs"
 description = "A lightweight pomodoro focus tool with cross-platform desktop notifications on Linux, MacOS and Windows."
 authors = ["Dominic Hains"]
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 keywords = ["focus", "pomodoro", "timer", "break", "work"]
 categories = ["command-line-utilities"]
