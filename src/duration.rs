@@ -51,6 +51,7 @@ impl Duration {
         Notification::new()
             .summary("Pom")
             .body(&notification_msg)
+            .timeout(0) // persistent notification
             .show()
             .unwrap();
     }
